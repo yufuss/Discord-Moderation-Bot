@@ -1,0 +1,31 @@
+{
+  "//1": "Bu Altyapı Fozen Ve TheLord Tarafından Hazırlanmıştır.",
+  "//2": "https://discord.gg/hXTFPw2sVQ",
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "Bu Altyapı Fozen Ve TheLord Tarafından Hazırlanmıştır.",
+  "main": "wexy.js",
+  "scripts": {
+    "start": "node wexy.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "^0.0.2",
+    "enmap": "^5.8.3",
+    "express": "^4.17.1",
+    "croxydb": "^0.0.7",
+    "ms": "^2.1.3"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
