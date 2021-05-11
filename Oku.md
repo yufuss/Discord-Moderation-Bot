@@ -1,5 +1,5 @@
-fozen 🍂#9630 ve TheLord 🍂🍁#0001 Tarafından Yapılmıştır.
+ŁŇ TheLord#6911 ve fozenᵃᵐʳ#9630 Tarafından Yapılmıştır.
 
-Çalınması Durumunda İdari İşlem Başlatılacaktır.
+Youtube Video:https://www.youtube.com/watch?v=JRuDxmJ90yk
 
 ALTYAPIDA SADECE **ayar.json** VE **config.json** AYARLAMANIZ YETERLİDİR
